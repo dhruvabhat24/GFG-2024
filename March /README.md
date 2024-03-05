@@ -7,7 +7,7 @@
 | 2024-03-03 | [Largest Number formed from an Array](https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1) | [Java Solution](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%203%3A%20Largest%20Number%20formed%20from%20an%20Array.java)  |
 | 2024-03-04 | [Swap the array elements](https://www.geeksforgeeks.org/problems/need-some-change/1)|  [Java Solution](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%204%20%3A%20Swap%20the%20array%20elements.java) |
 | 2024-03-05 |  [Maximum Index](https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1) |  [Java Solution](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%205%3A%20Maximum%20Index.java) |
-| 2024-03-06 |                                                      |                                                                                                    |
+| 2024-03-06 | [Search Pattern (Rabin-Karp Algorithm)](https://www.geeksforgeeks.org/problems/search-pattern-rabin-karp-algorithm--141631/1) | [Java Solution](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%206%3A%20Search%20Pattern%20(Rabin-Karp%20Algorithm).java) |
 | 2024-03-07 |                                                      |                                                                                                    |
 | 2024-03-08 |                                                      |                                                                                                    |
 | 2024-03-09 |                                                      |                                                                                                    |
