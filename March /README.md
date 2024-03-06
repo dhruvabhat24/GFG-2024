@@ -8,7 +8,7 @@
 | 2024-03-04 | [Swap the array elements](https://www.geeksforgeeks.org/problems/need-some-change/1)|  [Java Solution](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%204%20%3A%20Swap%20the%20array%20elements.java) |
 | 2024-03-05 |  [Maximum Index](https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1) |  [Java Solution](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%205%3A%20Maximum%20Index.java) |
 | 2024-03-06 | [Search Pattern (Rabin-Karp Algorithm)](https://www.geeksforgeeks.org/problems/search-pattern-rabin-karp-algorithm--141631/1) | [Java Solution](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%206%3A%20Search%20Pattern%20(Rabin-Karp%20Algorithm).java) |
-| 2024-03-07 |                                                      |                                                                                                    |
+| 2024-03-07 | [Longest repeating and non-overlapping substring](https://www.geeksforgeeks.org/problems/longest-repeating-and-non-overlapping-substring3421/1)  | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%207%3A%20Longest%20repeating%20and%20non-overlapping%20substring.java)  |
 | 2024-03-08 |                                                      |                                                                                                    |
 | 2024-03-09 |                                                      |                                                                                                    |
 | 2024-03-10 |                                                      |                                                                                                    |
