@@ -12,7 +12,7 @@
 | 2024-03-08 |  [Check if frequencies can be equal](https://www.geeksforgeeks.org/problems/check-frequencies4211/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%208%20Check%20if%20frequencies%20can%20be%20equal.java)  |
 | 2024-03-09 | [Find the N-th character](https://www.geeksforgeeks.org/problems/find-the-n-th-character5925/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%209%3A%20Find%20the%20N-th%20character.java)  |
 | 2024-03-10 | [Remove all duplicates from a given string](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2010%3A%20Remove%20all%20duplicates%20from%20a%20given%20string.java)  |
-| 2024-03-11 | [Count pairs Sum in matrices](https://www.geeksforgeeks.org/problems/count-pairs-sum-in-matrices4332/1) | [Source Code](#)  |
+| 2024-03-11 | [Count pairs Sum in matrices](https://www.geeksforgeeks.org/problems/count-pairs-sum-in-matrices4332/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2011%3A%20Count%20pairs%20Sum%20in%20matrices.java)  |
 | 2024-03-12 |                                                      |                                                                                                    |
 | 2024-03-13 |                                                      |                                                                                                    |
 | 2024-03-14 |                                                      |                                                                                                    |
