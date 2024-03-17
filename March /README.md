@@ -14,11 +14,11 @@
 | 2024-03-10 | [Remove all duplicates from a given string](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2010%3A%20Remove%20all%20duplicates%20from%20a%20given%20string.java)  |
 | 2024-03-11 | [Count pairs Sum in matrices](https://www.geeksforgeeks.org/problems/count-pairs-sum-in-matrices4332/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2011%3A%20Count%20pairs%20Sum%20in%20matrices.java)  |
 | 2024-03-12 | [Generalised Fibonacci numbers](https://www.geeksforgeeks.org/problems/generalised-fibonacci-numbers1820/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2012%3A%20Generalised%20Fibonacci%20numbers.java) |
-| 2024-03-13 |                                                      |                                                                                                    |
-| 2024-03-14 |                                                      |                                                                                                    |
-| 2024-03-15 |                                                      |                                                                                                    |
-| 2024-03-16 |                                                      |                                                                                                    |
-| 2024-03-17 |                                                      |                                                                                                    |
+| 2024-03-13 | [Print matrix in diagonal pattern](https://www.geeksforgeeks.org/problems/print-matrix-in-diagonal-pattern/1) |                           |
+| 2024-03-14 | [Largest subsquare surrounded by X](https://www.geeksforgeeks.org/problems/largest-subsquare-surrounded-by-x0558/1)  |                                         |
+| 2024-03-15 | [Linked List that is Sorted Alternatingly](https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1) |                                |
+| 2024-03-16 | [Delete without head pointer](https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1) |                                                          |
+| 2024-03-17 | [Count Pairs whose sum is equal to X](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1) |                                          |
 | 2024-03-18 |                                                      |                                                                                                    |
 | 2024-03-19 |                                                      |                                                                                                    |
 | 2024-03-20 |                                                      |                                                                                                    |
