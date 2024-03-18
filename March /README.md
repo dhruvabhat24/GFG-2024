@@ -19,7 +19,7 @@
 | 2024-03-15 | [Linked List that is Sorted Alternatingly](https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/dhruvabhat24-patch-1/March%20/Day%2015%3A%20Linked%20List%20that%20is%20Sorted%20Alternatingly.cpp) |
 | 2024-03-16 | [Delete without head pointer](https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/dhruvabhat24-patch-1/March%20/Day%2016%3A%20Delete%20without%20head%20pointer.cpp) |
 | 2024-03-17 | [Count Pairs whose sum is equal to X](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/dhruvabhat24-patch-1/March%20/Day%2017%3A%20Count%20Pairs%20whose%20sum%20is%20equal%20to%20X.java) |
-| 2024-03-18 |                                                      |                                                                                                    |
+| 2024-03-18 | [Level order traversal](https://www.geeksforgeeks.org/problems/level-order-traversal/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2018%3A%20Level%20order%20traversal.cpp) |
 | 2024-03-19 |                                                      |                                                                                                    |
 | 2024-03-20 |                                                      |                                                                                                    |
 | 2024-03-21 |                                                      |                                                                                                    |
