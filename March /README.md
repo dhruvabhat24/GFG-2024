@@ -22,7 +22,7 @@
 | 2024-03-18 | [Level order traversal](https://www.geeksforgeeks.org/problems/level-order-traversal/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2018%3A%20Level%20order%20traversal.cpp) |
 | 2024-03-19 | [Possible Paths in a Tree](https://www.geeksforgeeks.org/problems/possible-paths--141628/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2019%3A%20Possible%20Paths%20in%20a%20Tree.java) |
 | 2024-03-20 | [Sum of nodes on the longest path from root to leaf node](https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2020%3A%20Sum%20of%20nodes%20on%20the%20longest%20path%20from%20root%20to%20leaf%20node.cpp) |
-| 2024-03-21 |                                                      |                                                                                                    |
+| 2024-03-21 | [ZigZag Tree Traversal](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2021%3A%20ZigZag%20Tree%20Traversal.cpp)  |
 | 2024-03-22 |                                                      |                                                                                                    |
 | 2024-03-23 |                                                      |                                                                                                    |
 | 2024-03-24 |                                                      |                                                                                                    |
