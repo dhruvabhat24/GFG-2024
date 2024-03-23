@@ -24,7 +24,7 @@
 | 2024-03-20 | [Sum of nodes on the longest path from root to leaf node](https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2020%3A%20Sum%20of%20nodes%20on%20the%20longest%20path%20from%20root%20to%20leaf%20node.cpp) |
 | 2024-03-21 | [ZigZag Tree Traversal](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2021%3A%20ZigZag%20Tree%20Traversal.cpp)  |
 | 2024-03-22 |  [Diagonal sum in binary tree](https://www.geeksforgeeks.org/problems/diagonal-sum-in-binary-tree/1) |  [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2022%3A%20Diagonal%20sum%20in%20binary%20tree.cpp) |
-| 2024-03-23 |                                                      |                                                                                                    |
+| 2024-03-23 | [Fibonacci series up to Nth term](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2023%3A%20Fibonacci%20series%20up%20to%20Nth%20term.cpp)  |
 | 2024-03-24 |                                                      |                                                                                                    |
 | 2024-03-25 |                                                      |                                                                                                    |
 | 2024-03-26 |                                                      |                                                                                                    |
