@@ -25,7 +25,7 @@
 | 2024-03-21 | [ZigZag Tree Traversal](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2021%3A%20ZigZag%20Tree%20Traversal.cpp)  |
 | 2024-03-22 |  [Diagonal sum in binary tree](https://www.geeksforgeeks.org/problems/diagonal-sum-in-binary-tree/1) |  [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2022%3A%20Diagonal%20sum%20in%20binary%20tree.cpp) |
 | 2024-03-23 | [Fibonacci series up to Nth term](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2023%3A%20Fibonacci%20series%20up%20to%20Nth%20term.cpp)  |
-| 2024-03-24 |                                                      |                                                                                                    |
+| 2024-03-24 | [Insert an Element at the Bottom of a Stack](https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack/1) | [Source Code](https://github.com/dhruvabhat24/GFG-2024/blob/main/March%20/Day%2024%3A%20Insert%20an%20Element%20at%20the%20Bottom%20of%20a%20Stack.java) |
 | 2024-03-25 |                                                      |                                                                                                    |
 | 2024-03-26 |                                                      |                                                                                                    |
 | 2024-03-27 |                                                      |                                                                                                    |
