@@ -8,7 +8,7 @@
 | 2024-04-02 | [Minimum Absolute Difference In BST](https://www.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%202%3A%20Minimum%20Absolute%20Difference%20In%20BST.cpp) |
 | 2024-04-03 | [Kth common ancestor in BST](https://www.geeksforgeeks.org/problems/kth-common-ancestor-in-bst/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%203%3A%20Kth%20common%20ancestor%20in%20BST.cpp) |
 | 2024-04-04 | [Sum of all substrings of a number](https://www.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%204%3A%20Sum%20of%20all%20substrings%20of%20a%20number.java) |
-| 2024-04-05 |               |          |
+| 2024-04-05 | [Strictly Increasing Array](https://www.geeksforgeeks.org/problems/convert-to-strictly-increasing-array3351/1) |          |
 | 2024-04-06 |               |          |
 | 2024-04-07 |               |          |
 | 2024-04-08 |               |          |
