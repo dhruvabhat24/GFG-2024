@@ -13,7 +13,7 @@
 | 2024-04-07 | [Maximize dot product](https://www.geeksforgeeks.org/problems/maximize-dot-product2649/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%207%3A%20Maximize%20dot%20product.cpp) |
 | 2024-04-08 | [Optimal Strategy For A Game](https://www.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1) | [link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%208%3A%20Optimal%20Strategy%20For%20A%20Game.java) |
 | 2024-04-09 | [Minimum Points To Reach Destination](https://www.geeksforgeeks.org/problems/minimum-points-to-reach-destination0540/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%209%3A%20Minimum%20Points%20To%20Reach%20Destination.cpp) |
-| 2024-04-10 |               |          |
+| 2024-04-10 | [Party of Couples](https://www.geeksforgeeks.org/problems/alone-in-couple5507/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2010%3A%20Party%20of%20Couples.cpp) |
 | 2024-04-11 |               |          |
 | 2024-04-12 |               |          |
 | 2024-04-13 |               |          |
