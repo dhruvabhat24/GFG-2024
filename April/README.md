@@ -15,8 +15,8 @@
 | 2024-04-09 | [Minimum Points To Reach Destination](https://www.geeksforgeeks.org/problems/minimum-points-to-reach-destination0540/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%209%3A%20Minimum%20Points%20To%20Reach%20Destination.cpp) |
 | 2024-04-10 | [Party of Couples](https://www.geeksforgeeks.org/problems/alone-in-couple5507/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2010%3A%20Party%20of%20Couples.cpp) |
 | 2024-04-11 | [Gray to Binary equivalent](https://www.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2011%3A%20Gray%20to%20Binary%20equivalent.cpp) |
-| 2024-04-12 |               |          |
-| 2024-04-13 |               |          |
+| 2024-04-12 | [Sum of Products](https://www.geeksforgeeks.org/problems/sum-of-products5049/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2012%3A%20Sum%20of%20Products.java) |
+| 2024-04-13 | [Reverse Bits](https://www.geeksforgeeks.org/problems/reverse-bits3556/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2013%3A%20Reverse%20Bits.java) |
 | 2024-04-14 |               |          |
 | 2024-04-15 |               |          |
 | 2024-04-16 |               |          |
