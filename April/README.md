@@ -17,8 +17,8 @@
 | 2024-04-11 | [Gray to Binary equivalent](https://www.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2011%3A%20Gray%20to%20Binary%20equivalent.cpp) |
 | 2024-04-12 | [Sum of Products](https://www.geeksforgeeks.org/problems/sum-of-products5049/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2012%3A%20Sum%20of%20Products.java) |
 | 2024-04-13 | [Reverse Bits](https://www.geeksforgeeks.org/problems/reverse-bits3556/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2013%3A%20Reverse%20Bits.java) |
-| 2024-04-14 |               |          |
-| 2024-04-15 |               |          |
+| 2024-04-14 | [Xoring and Clearing](https://www.geeksforgeeks.org/problems/xoring-and-clearing/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2014%3A%20Xoring%20and%20Clearing.java) |
+| 2024-04-15 | [Count the elements](https://www.geeksforgeeks.org/problems/count-the-elements1529/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2015%3A%20Count%20the%20elements.java) |
 | 2024-04-16 |               |          |
 | 2024-04-17 |               |          |
 | 2024-04-18 |               |          |
