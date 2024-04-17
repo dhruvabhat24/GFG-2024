@@ -20,8 +20,8 @@
 | 2024-04-14 | [Xoring and Clearing](https://www.geeksforgeeks.org/problems/xoring-and-clearing/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2014%3A%20Xoring%20and%20Clearing.java) |
 | 2024-04-15 | [Count the elements](https://www.geeksforgeeks.org/problems/count-the-elements1529/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2015%3A%20Count%20the%20elements.java) |
 | 2024-04-16 | [Minimize the Difference](https://www.geeksforgeeks.org/problems/minimize-the-difference/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2016%3A%20Minimize%20the%20Difference.cpp) |
-| 2024-04-17 |               |          |
-| 2024-04-18 |               |          |
+| 2024-04-17 |  [Count Pairs in an Array](https://www.geeksforgeeks.org/problems/count-pairs-in-an-array4145/1)  | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2017%3A%20Count%20Pairs%20in%20an%20Array.cpp) |
+| 2024-04-18 | [Two Repeated Elements](https://www.geeksforgeeks.org/problems/two-repeated-elements-1587115621/1) | [Link](https://github.com/dhruvabhat24/GFG-2024/blob/main/April/Day%2018%3A%20Two%20Repeated%20Elements.cpp) |
 | 2024-04-19 |               |          |
 | 2024-04-20 |               |          |
 | 2024-04-21 |               |          |
